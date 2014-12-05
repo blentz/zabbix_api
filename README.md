@@ -1,2 +1,2 @@
-python zabbix api - https://github.com/gescheit/scripts/tree/master/zabbix
+python zabbix api - https://github.com/blentz/zabbix_api/tree/master/zabbix
 
